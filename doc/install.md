@@ -12,7 +12,7 @@ Kids these days have it easy:
 
 We need the ANTLR Python runtime before we can install java2python:
 
-    # wget http://www.antlr.org/download/antlr-3.1.3.tar.gz
+    # wget http://www.antlr3.org/download/antlr-3.1.3.tar.gz
     # tar xfz antlr-3.1.3.tar.gz
     # cd antlr-3.1.3/runtime/Python/
     # python setup.py install
@@ -45,6 +45,6 @@ The development dependencies (what you need if you're coding java2python) are
 [ANTLR][], also version 3.1.3, GNU make, and a JVM.
 
 
-[version 3.1.3 of the Python runtime]: http://www.antlr.org/download/antlr-3.1.3.tar.gz
+[version 3.1.3 of the Python runtime]: http://www.antlr3.org/download/antlr-3.1.3.tar.gz
 [Python runtime]: http://www.antlr.org/wiki/display/ANTLR3/Python+runtime
 [ANTLR]: http://www.antlr.org
